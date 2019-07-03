@@ -80,7 +80,7 @@ public class AdavnceModelActivity extends AppCompatActivity {
                     }
                 }, 1000);
 
-            }
+            } 
         });
     }
 
