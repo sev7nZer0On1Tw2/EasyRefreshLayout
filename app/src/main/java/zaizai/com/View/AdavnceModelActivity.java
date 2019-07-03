@@ -8,7 +8,7 @@ import android.support.v7.widget.RecyclerView;
 import android.widget.Toast;
 
 import com.ajguan.R;
-import com.ajguan.library.EasyRefreshLayout;
+import com.ajguan.library.EasyRefreshLa啊啊啊yout;
 import com.ajguan.library.LoadModel;
 
 import java.util.ArrayList;
